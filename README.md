@@ -2,7 +2,8 @@
 
 A Quasar Framework Weather app made using UI design with VueJS. <br />
 It can be written 1 time and can be built for all 5 platforms, Windows,Mac,Android,iOS and Browser for deployment at the same time. <br />
-Here the app is only built by me for Android as apk file : https://github.com/HoneyBerman/quasar_weather/blob/master/src-cordova/MyweatherByHoney.apk and for browser as App.Vue file which can be used with suitable extensions. You can see the below working screenshot .<br />
+Here the app is only built by me for Android as apk file : https://github.com/HoneyBerman/quasar_weather/blob/master/src-cordova/MyweatherByHoney.apk and for browser as App.Vue file which can be used with suitable extensions. <br />
+Below is a  working screenshot .<br />
 ![](Images/quasarweather.jpg)
 
 
